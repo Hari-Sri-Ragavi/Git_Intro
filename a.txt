@@ -1,1 +1,3 @@
-This is a text file created using nano
+This is a text file created using nano.
+
+This is now being edited in the same nano editor.
